@@ -1,11 +1,16 @@
 _repo: A-history-of-the-administration-of-the-Royal-Navy-and-of-merchant-shipping-in-relation-to-the__68713
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68713-h/images/cover.jpg
 creator:
   author:
     agent_name: Oppenheim, Michael Morris
     gutenberg_agent_id: '54910'
     url: http://www.gutenberg.org/2009/agents/54910
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68713#A-history-of-the-administration-of-the-Royal-Navy-and-of-merchant-shipping-in-relation-to-the_
 gutenberg_issued: '2022-08-08'
 identifiers:
   gutenberg: '68713'
