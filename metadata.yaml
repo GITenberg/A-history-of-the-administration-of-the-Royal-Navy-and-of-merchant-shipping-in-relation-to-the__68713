@@ -1,0 +1,29 @@
+_repo: A-history-of-the-administration-of-the-Royal-Navy-and-of-merchant-shipping-in-relation-to-the__68713
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oppenheim, Michael Morris
+    gutenberg_agent_id: '54910'
+    url: http://www.gutenberg.org/2009/agents/54910
+description: ''
+gutenberg_issued: '2022-08-08'
+identifiers:
+  gutenberg: '68713'
+language: en
+pgterms:marc904: https://archive.org/details/historyofadminis00oppe
+pgterms:marc905: 20200802175711oppenheim
+pgterms:marc906: '1896'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United Kingdom :John Lane,1896.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A history of the administration of the Royal Navy and of merchant shipping
+  in relation to the Navy: From MDIX to MDCLX, with an introduction treating of the
+  preceding period'
+url: http://www.gutenberg.org/ebooks/68713
